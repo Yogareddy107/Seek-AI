@@ -1,0 +1,6 @@
+{
+  "name": "PhotoSeek AI",
+  "description": "An AI-powered event photo sharing SaaS platform that lets guest find their photos instantly using face search and selfies.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
